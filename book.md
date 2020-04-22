@@ -3,3 +3,4 @@
 - [对弈程序基本技术](http://www.xqbase.com/computer/outline.htm)
 - [500 line or less](http://aosabook.org/en/index.html)
 - [Django BBS论坛](https://www.cnblogs.com/xt12321/p/11061637.html)
+- [一个很不错的python项目学习网站](https://techwithtim.net/)
