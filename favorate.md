@@ -16,3 +16,7 @@
 - [Django静态文件的路径设置](https://blog.csdn.net/mehent/article/details/83902582)
 
 - [python之dict与set实现原理之hash算法](https://www.cnblogs.com/raind/p/10134546.html)
+
+- [leetcode轮子，list到tree](https://blog.csdn.net/ZT7524/article/details/103464673)
+
+- [kaggle入门](https://blog.csdn.net/han_xiaoyang/article/details/49797143)

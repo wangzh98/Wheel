@@ -8,3 +8,4 @@
 - [笔记](./note.md)
 - [收藏文章](./paper.md)
 - [语法](./grammer.md)
+- [模版](./template.md)
