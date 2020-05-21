@@ -42,3 +42,5 @@ functools.reduce(lambda x, y: x ^ y, nums)
 [('a', 6), ('c', 3), ('d', 10), ('k', 32)]
 
 [python拷贝](https://draapho.github.io/2016/11/21/1618-python-variable/)
+
+ dicts.update({needs:cost})

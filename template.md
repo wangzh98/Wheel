@@ -72,3 +72,20 @@ if __name__=="__main__":
     r = s.inorderTraversal(root)
     print(r)
 ```
+
+
+二叉树的中序遍历 非递归
+```
+# 中序打印二叉树（非递归）
+def inOrderTraverse(node):
+    stack = []
+    pos = node
+    while pos or len(stack) > 0:
+        if pos:
+            stack.append(pos)
+            pos = pos.left
+        else:
+            pos = stack.pop()
+            print(pos.val)
+            pos = pos.right
+```
